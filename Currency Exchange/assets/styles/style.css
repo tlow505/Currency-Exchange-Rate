@@ -91,6 +91,7 @@ form .drop-list {
     font-size: 20px;
     background: none;
     margin: 0 -5px 0 -5px;
+    margin-left: 10px;
 }
 
 /* Scroll bar  */
